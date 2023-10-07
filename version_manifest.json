@@ -7,6 +7,10 @@
     {
       "name": "alp_v1.0.0",
       "display_name": "Alpha V1.0.0"
+    },
+    {
+      "name": "pre-alp_v1",
+      "display_name": "Pre-Alpha V1"
     }
   ]
 }
