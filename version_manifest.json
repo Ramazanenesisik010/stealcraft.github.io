@@ -2,19 +2,23 @@
   "versions": [
     {
       "name": "alp_v1.0.1",
-      "display_name": "Alpha V1.0.1"
+      "display_name": "Alpha V1.0.1",
+      "launcher":"net.minecraft.client.Minecraft"
     },
     {
       "name": "alp_v1.0.0",
-      "display_name": "Alpha V1.0.0"
+      "display_name": "Alpha V1.0.0",
+      "launcher":"net.minecraft.client.Minecraft"
     },
     {
       "name": "pre-alp_v1",
-      "display_name": "Pre-Alpha V1"
+      "display_name": "Pre-Alpha V1",
+      "launcher":"com.emirenesgames.stealcraft.StealCraft"
     },
     {
       "name": "enescraft_v0.2",
-      "display_name": "EnesCraft v0.2"
+      "display_name": "EnesCraft v0.2",
+      "launcher":"org.delmesoft.Main"
     }
   ]
 }
