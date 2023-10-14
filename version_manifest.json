@@ -16,7 +16,7 @@
       "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
     },
     {
-      "name": "pre-alp_v1.0.0",
+      "name": "pre-alpha_v1.0.0",
       "display_name": "Pre-Alpha V1.0.0",
       "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
     },
