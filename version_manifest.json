@@ -8,17 +8,22 @@
     {
       "name": "alp_v1.0.0",
       "display_name": "Alpha V1.0.0",
-      "launcher":"net.minecraft.client.Minecraft"
+      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
     },
     {
       "name": "pre-alp_v1",
-      "display_name": "Pre-Alpha V1",
-      "launcher":"com.emirenesgames.stealcraft.Stealcraft"
+      "display_name": "Pre-Alpha V1.0.1",
+      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
+    },
+    {
+      "name": "pre-alp_v1.0.0",
+      "display_name": "Pre-Alpha V1.0.0",
+      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
     },
     {
       "name": "enescraft_v0.2",
       "display_name": "EnesCraft v0.2",
-      "launcher":"org.delmesoft.Main"
+      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
     }
   ]
 }
