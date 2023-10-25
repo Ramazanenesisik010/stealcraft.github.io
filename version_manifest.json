@@ -8,12 +8,12 @@
     {
       "name": "alp_v1.0.0",
       "display_name": "Alpha V1.0.0",
-      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
+      "launcher":"net.minecraft.client.Minecraft"
     },
     {
       "name": "pre-alp_v1",
       "display_name": "Pre-Alpha V1.0.1",
-      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
+      "launcher":"com.emirenegames.stealcaft"
     },
     {
       "name": "pre-alpha_v1.0.0",
