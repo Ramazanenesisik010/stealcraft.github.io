@@ -13,7 +13,7 @@
     {
       "name": "pre-alp_v1",
       "display_name": "Pre-Alpha V1.0.1",
-      "launcher":"com.emirenegames.stealcaft"
+      "launcher":"com.emirenesgames.stealcraft.Stealcraft"
     },
     {
       "name": "pre-alpha_v1.0.0",
@@ -23,7 +23,7 @@
     {
       "name": "enescraft_v0.2",
       "display_name": "EnesCraft v0.2",
-      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
+      "launcher":"org.delmesoft.Main"
     }
   ]
 }
