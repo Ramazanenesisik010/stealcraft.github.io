@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "name": "alp_v1.0.2_20231115",
+      "display_name": "Alpha V1.0.2 Build 20231115",
+      "launcher":"com.emirenesgames.stealcraft.Launcher"
+    },
+    {
       "name": "alp_v1.0.2_20231113",
       "display_name": "Alpha V1.0.2 Build 20231113",
       "launcher":"com.emirenesgames.stealcraft.Launcher"
