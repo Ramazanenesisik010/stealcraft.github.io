@@ -3,7 +3,14 @@
     {
       "name": "alp_v1.0.2_20231115",
       "display_name": "Alpha V1.0.2 Build 20231115",
-      "launcher":"com.emirenesgames.stealcraft.Launcher"
+      "launcher":"com.emirenesgames.stealcraft.Launcher",
+      "advanced_game_opening_option":true,
+      "advanced_game_opening_option_array":[
+        {
+          "display_name":"Oyunu Başlat",
+          "parameter":"%username %sessionId"
+        }
+      ]
     },
     {
       "name": "alp_v1.0.2_20231113",
