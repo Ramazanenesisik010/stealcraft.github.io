@@ -4,43 +4,57 @@
       "name": "alp_v1.0.2_20231115",
       "display_name": "Alpha V1.0.2 Build 20231115",
       "launcher":"com.emirenesgames.stealcraft.Launcher",
-      "advanced_game_opening_option":true,
-      "advanced_game_opening_option_array":[
-        {
-          "display_name":"Oyunu Başlat",
-          "parameter":"%username %sessionId"
-        }
-      ]
+      "advanced_game_opening_option":false
     },
     {
       "name": "alp_v1.0.2_20231113",
       "display_name": "Alpha V1.0.2 Build 20231113",
-      "launcher":"com.emirenesgames.stealcraft.Launcher"
+      "launcher":"com.emirenesgames.stealcraft.Launcher",
+      "advanced_game_opening_option":false
     },
     {
       "name": "alp_v1.0.1",
       "display_name": "Alpha V1.0.1",
-      "launcher":"net.minecraft.client.Minecraft"
+      "launcher":"net.minecraft.client.Minecraft",
+      "advanced_game_opening_option":true,
+      "advanced_game_opening_option_array":[
+        {
+          "display_name":"Normal Oyunu Başlat",
+          "parameter":"%username %sessionId"
+        },
+        {
+          "display_name":"Demo Modunu Başlat",
+          "parameter":"%username %sessionId --demo"
+        },
+        {
+          "display_name":"Applet Modunu Başlat",
+          "parameter":"%username %sessionId -applet"
+        }
+      ]
     },
     {
       "name": "alp_v1.0.0",
       "display_name": "Alpha V1.0.0",
-      "launcher":"net.minecraft.client.Minecraft"
+      "launcher":"net.minecraft.client.Minecraft",
+      "advanced_game_opening_option":false
     },
     {
       "name": "pre-alp_v1",
       "display_name": "Pre-Alpha V1.0.1",
-      "launcher":"com.emirenesgames.stealcraft.Stealcraft"
+      "launcher":"com.emirenesgames.stealcraft.Stealcraft",
+      "advanced_game_opening_option":false
     },
     {
       "name": "pre-alpha_v1.0.0",
       "display_name": "Pre-Alpha V1.0.0",
-      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"
+      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader",
+      "advanced_game_opening_option":false
     },
     {
       "name": "enescraft_v0.2",
       "display_name": "EnesCraft v0.2",
-      "launcher":"org.delmesoft.Main"
+      "launcher":"org.delmesoft.Main",
+      "advanced_game_opening_option":false
     }
   ]
 }
