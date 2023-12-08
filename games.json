@@ -19,8 +19,15 @@
                 "lzma.jar",
                 "substance-7.2.1.jar",
                 "trident-7.2.1.jar",
-                "json-20171018.jar"
+                "json-20171018.jar",
+                "emirenesgames-applet-adder-20231208.jar"
             ]
+        },
+        {
+            "name":"Windows Xp Simulator",
+            "online_run":"false",
+            "game_json_url":"https://ramazanenesisik010.github.io/stealcraft_web/games/windows_xp_simulator/xp_simulator.json",
+            "lib":[]
         }
     ]
 }

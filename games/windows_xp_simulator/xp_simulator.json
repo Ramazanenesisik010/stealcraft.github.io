@@ -1,0 +1,11 @@
+{
+  "versions": [
+    {
+      "name": "alp_v1.0",
+      "display_name": "Alpgha v1.0.0",
+      "launcher":"com.emirenesgames.stealcraft.Launcher",
+      "advanced_game_opening_option":false
+
+    }
+  ]
+}
