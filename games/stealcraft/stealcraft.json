@@ -15,7 +15,7 @@
     {
       "name": "alp_v1.0.1",
       "display_name": "Alpha V1.0.1",
-      "launcher":"net.minecraft.client.Minecraft",
+      "launcher":"net.minecraft.client.MinecraftApplet",
       "advanced_game_opening_option":true,
       "advanced_game_opening_option_array":[
         {
@@ -43,7 +43,7 @@
     {
       "name": "pre-alpha_v1.0.0",
       "display_name": "Pre-Alpha V1.0.0",
-      "launcher":"org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader",
+      "launcher":"com.mojang.minecraft.MinecraftApplet",
       "advanced_game_opening_option":false
     },
     {
