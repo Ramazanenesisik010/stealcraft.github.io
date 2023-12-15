@@ -2,8 +2,8 @@
   "versions": [
     {
       "name": "alpha_v1.0",
-      "display_name": "Alpgha v1.0.0",
-      "launcher":"com.emirenesgames.stealcraft.Launcher",
+      "display_name": "Alpha v1.0.0",
+      "launcher":"com.emirenesgames.game.Main",
       "advanced_game_opening_option":false
 
     }

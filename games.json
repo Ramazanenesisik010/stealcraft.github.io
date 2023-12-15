@@ -2,10 +2,10 @@
     "games":[
         
         {
-            "display_name":"Windows Xp Simulator",
-            "name":"xp_simulator",
+            "display_name":"Space Game",
+            "name":"space_game",
             "online_run":"false",
-            "game_json_url":"https://ramazanenesisik010.github.io/stealcraft_web/games/windows_xp_simulator/xp_simulator.json",
+            "game_json_url":"https://ramazanenesisik010.github.io/stealcraft_web/games/space_game/xp_simulator.json",
             "lib":[]
         },
         {
