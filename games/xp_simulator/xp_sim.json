@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "name": "alp_v1.0",
+      "name": "alpha_v1.0",
       "display_name": "Alpha V1.0.0",
       "launcher":"com.emirenesgames.xpsimulator.XpSimulator",
       "advanced_game_opening_option":false
