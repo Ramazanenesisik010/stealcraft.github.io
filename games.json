@@ -31,6 +31,13 @@
                 "json-20171018.jar",
                 "emirenesgames-applet-adder-20231208.jar"
             ]
+        },
+        {
+            "display_name":"XP Simulator",
+            "name":"xp_sim",
+            "online_run":"false",
+            "game_json_url":"https://ramazanenesisik010.github.io/stealcraft_web/games/xp_simulator/xp_sim.json",
+            "lib":[]
         }
     ]
 }
