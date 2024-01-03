@@ -1,0 +1,11 @@
+{
+  "versions": [
+    {
+      "name": "version_v1",
+      "display_name": "Version v1",
+      "launcher":"com.emirenesgames.jarbox.MainFrame",
+      "advanced_game_opening_option":false
+
+    }
+  ]
+}

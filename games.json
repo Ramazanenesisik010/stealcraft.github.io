@@ -2,11 +2,9 @@
     "games":[
         
         {
-            "display_name":"Space Game",
-            "name":"space_game",
-            "online_run":"false",
-            "game_json_url":"https://ramazanenesisik010.github.io/stealcraft_web/games/space_game/xp_simulator.json",
-            "lib":[]
+            "display_name":"JarBox",
+            "name":"jarBox",
+            "game_json_url":"https://ramazanenesisik010.github.io/stealcraft_web/games/jar_box/jarBox.json"
         },
         {
             "display_name":"StealCraft",
@@ -31,13 +29,6 @@
                 "json-20171018.jar",
                 "emirenesgames-applet-adder-20231208.jar"
             ]
-        },
-        {
-            "display_name":"XP Simulator",
-            "name":"xp_sim",
-            "online_run":"false",
-            "game_json_url":"https://ramazanenesisik010.github.io/stealcraft_web/games/xp_sim/xp_sim.json",
-            "lib":[]
         }
     ]
 }

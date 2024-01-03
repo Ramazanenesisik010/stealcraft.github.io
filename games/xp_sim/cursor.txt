@@ -1,2 +1,0 @@
-cursorTexX:0
-cursorTexY:1
