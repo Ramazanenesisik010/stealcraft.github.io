@@ -2,7 +2,7 @@
     "games":[  
         {
             "display_name":"JarBox",
-            "name":"jarBox",
+            "name":"jar_box",
             "game_json_url":"https://ramazanenesisik010.github.io/stealcraft_web/games/jar_box/jarBox.json"
         },
         {
